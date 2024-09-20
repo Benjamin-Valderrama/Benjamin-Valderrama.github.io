@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Benjamin Valderrama"
+  navbar:
+     background: dark
+#    left:
+#      - href: index.qmd
+#        text: Home
+#      - about.qmd
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+
+editor: visual
+
