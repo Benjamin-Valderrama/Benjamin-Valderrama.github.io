@@ -1,7 +1,23 @@
 ---
 title: ""
+format: html
+css: styles.css
 ---
 
-# Full list of publications
+## Selected publications on my key research areas
+
+<br>
+
+#### Microbiome-Gut-Brain axis in underrepresented populations
+
+-   [The Neuroactive Potential of the Elderly Human Gut Microbiome is Associated with Mental Health Status](https://www.biorxiv.org/content/10.1101/2024.08.08.607034v1.abstract){.my_bold}, Paulina Calderon-Romero, [Benjamin Valderrama]{.my_bold}, Thomaz Bastiaanssen, Patricia Lillo, Daniela Thumala, Gerard Clarke, John F Cryan, Andrea Slachevsky, Christian Gonzalez-Billault, Felipe A. Court, BioRxive, 2024
+
+#### Probiotics and Psychobiotics development
+
+-   [From in silico screening to in vivo validation in zebrafish - a framework for reeling in the right psychobiotics](https://pubs.rsc.org/en/content/articlehtml/2025/fo/d4fo03932g){.my_bold}, [Benjamin Valderrama]{.my_bold}, Isabelle Daly, Eoin Gunnigle, Kenneth J. O'Riordan, Maciej Chichlowski, Sagarika Banerjee, Alicja A. Skowronski, Neeraj Pandey, John F. Cryan, Gerard Clarke, Jatin Nagpal, Foods & Function, 2025.
+
+<br>
+
+## Full list of publications
 
 You can visit my [Google Scholar profile](https://scholar.google.com/citations?user=fteDslYAAAAJ&hl=en&oi=ao) and [ORCID](https://orcid.org/0000-0002-4740-8965) for a full list of publications.
