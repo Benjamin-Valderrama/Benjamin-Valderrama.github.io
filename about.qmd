@@ -1,6 +1,7 @@
 ---
 title: ""
-from: markdown
+from: markdown+emoji
+format: html
 css: styles.css
 about:
         template: jolla
@@ -16,7 +17,7 @@ about:
 
 # Short Bio
 
-I'm a PhD student doing computational biology to better understand the microbiome-gut-brain axis. I work under the supervision of Professors John F. Cryan and Gerard Clarke at the APC microbiome Ireland.
+I'm a [PhD student doing computational biology]{.my_bold} to better understand the [microbiome-gut-brain axis]{.my_bold}. I work under the supervision of Professors John F. Cryan and Gerard Clarke at the APC microbiome Ireland.
 
 Since my first year as an undergrad I have been working in the microbiome-gut-brain axis. Although I started doing molecular work, I transitioned to fully computational :computer: :dna: the year before starting my PhD, while still working in the industry.
 
@@ -24,8 +25,10 @@ In my daily life I like reading, hiking, drinking coffee and doing 3D design and
 
 # Research interests
 
-My research focuses in using computational approaches to better understand the role of the gut microbiome in human health. My three main research interests are:
+My research focuses in three key research areas:
 
--   Gut microbiome modulation of gut barrier integrity and its effects on host health
--   Expanding our understanding of the gut microbiome from underrepresented communities
--   Probiotic development
+::: bullet-list
+-   Microbiome modulation of gut barrier integrity and its effects on host gut-brain health.
+-   The study of the microbiome of underrepresented population and its implications on brain health.
+-   Probiotics and Psychobiotics development
+:::
