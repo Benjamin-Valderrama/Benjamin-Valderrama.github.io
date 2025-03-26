@@ -5,15 +5,25 @@ project:
 website:
   title: "Benjamin Valderrama"
   navbar:
-     background: dark
-#    left:
-#      - href: index.qmd
-#        text: Home
-#      - about.qmd
+     background: primary
+     left:
+     - href: about.qmd
+       text: "Home"
+     - href: CV.qmd
+       text: "CV"
+     - href: publications.qmd
+     - href: books.qmd
+       text: "Book chapters"
+     - href: saMBA.qmd
+       text: "saMBA"
+     - href: MVP.qmd
+       text: "MVP"
+
+     
 
 format:
   html:
-    theme: yeti
+    theme: Lux
     css: styles.css
     toc: true
 
