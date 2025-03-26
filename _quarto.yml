@@ -17,8 +17,8 @@ website:
        text: "Book chapters"
      - href: saMBA.qmd
        text: "saMBA"
-     - href: MVP.qmd
-       text: "MVP"
+     - href: https://github.com/Benjamin-Valderrama/MVP
+       text: "MVP Repo"
 
      
 
