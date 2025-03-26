@@ -12,6 +12,7 @@ website:
      - href: CV.qmd
        text: "CV"
      - href: publications.qmd
+       text: "publications"
      - href: books.qmd
        text: "Book chapters"
      - href: saMBA.qmd
