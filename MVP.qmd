@@ -1,3 +1,0 @@
----
-title: "The Microbiome Visualization Project (MVP)"
----

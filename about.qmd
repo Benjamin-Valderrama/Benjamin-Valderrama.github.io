@@ -17,9 +17,9 @@ about:
 
 # Short Bio
 
-I'm a [PhD student doing computational biology]{.my_bold} to better understand the [microbiome-gut-brain axis]{.my_bold}. I work under the supervision of Professors John F. Cryan and Gerard Clarke at the APC microbiome Ireland.
+I'm a [PhD student doing computational biology]{.my_bold} to better understand the [microbiome-gut-brain axis]{.my_bold}. I work under the supervision of Professors John F. Cryan and Gerard Clarke at APC microbiome Ireland.
 
-Since my first year as an undergrad I have been working in the microbiome-gut-brain axis. Although I started doing molecular work, I transitioned to fully computational :computer: :dna: the year before starting my PhD, while still working in the industry.
+Since my first year as an undergrad I have been working in the microbiome-gut-brain axis. Although I started doing molecular work, I transitioned to fully computational :computer::dna: the year before starting my PhD, while still working in the industry.
 
 In my daily life I like reading, hiking, drinking coffee and doing 3D design and printing.
 
