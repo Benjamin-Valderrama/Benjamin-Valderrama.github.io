@@ -20,4 +20,4 @@ css: styles.css
 
 ## Full list of publications
 
-You can visit my [Google Scholar profile](https://scholar.google.com/citations?user=fteDslYAAAAJ&hl=en&oi=ao) and [ORCID](https://orcid.org/0000-0002-4740-8965) for a full list of publications.
+You can visit my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=fteDslYAAAAJ&view_op=list_works&sortby=pubdate) and [ORCID](https://orcid.org/0000-0002-4740-8965) for a full list of publications.

@@ -25,10 +25,10 @@ In my daily life I like reading, hiking, drinking coffee and doing 3D design and
 
 # Research interests
 
-My research focuses in three key research areas:
+My research focuses in three key areas:
 
 ::: bullet-list
 -   Microbiome modulation of gut barrier integrity and its effects on host gut-brain health.
--   The study of the microbiome of underrepresented population and its implications on brain health.
--   Probiotics and Psychobiotics development
+-   The gut microbiome of underrepresented population and its implications on brain health.
+-   Probiotics and Psychobiotics development.
 :::
