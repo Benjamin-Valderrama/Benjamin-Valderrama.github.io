@@ -6,7 +6,7 @@ css: styles.css
 # Book chapters
 
 ::: bullet-list
--   [Chapter 24 : Supervised Machine Learning](https://microbiome.github.io/OMA/docs/devel/pages/machine_learning.html) - [Orchestrating Microbiome Analysis (OMA) book]{.my_bold}.
+-   [Chapter 26 : Supervised Machine Learning](https://microbiome.github.io/OMA/docs/devel/pages/machine_learning.html) - [Orchestrating Microbiome Analysis (OMA) book]{.my_bold}.
 : The review of the chapter is open to anyone, and can be accessed [here](https://github.com/microbiome/OMA/commit/64262b2170b6207e7f528eeef7054d036d31a6c2).
 :::
 
