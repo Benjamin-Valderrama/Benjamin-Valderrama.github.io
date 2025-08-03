@@ -1,0 +1,17 @@
+## **About the blog** {style="white"}
+
+I have a personal blog called "[The Middle Author Bioinformatician](https://bvalderrama.substack.com/)" where I document my path to avoid becoming just another middle author bioinformatician.
+
+I write about Bioinformatics, Gut Microbiome, The Microbiome-Gut-Brain axis, Science in general and some personal thoughts.
+
+## Highlighted posts
+
+Click on the images to go to the full post.
+
+------------------------------------------------------------------------
+
+[![](images/clipboard-478560109.png){width="627"}](https://bvalderrama.substack.com/p/common-limitations-of-gut-microbiome)
+
+------------------------------------------------------------------------
+
+[![](images/clipboard-2725081454.png)](https://bvalderrama.substack.com/p/when-good-science-goes-wrong-how)

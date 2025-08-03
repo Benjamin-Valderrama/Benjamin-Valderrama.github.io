@@ -19,6 +19,8 @@ website:
        text: "saMBA"
      - href: https://github.com/Benjamin-Valderrama/MVP
        text: "MVP Repo"
+     - href: blog.qmd
+       text: "My blog"
 
      
 

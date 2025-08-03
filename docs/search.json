@@ -18,14 +18,14 @@
     "href": "about.html",
     "title": "Benjamin Valderrama",
     "section": "",
-    "text": "Benjamin Valderrama\n\n\n\n\n\n\nBluesky Github Scholar\n\n\n\nShort Bio\nI’m a PhD student doing computational biology to better understand the microbiome-gut-brain axis. I work under the supervision of Professors John F. Cryan and Gerard Clarke at APC microbiome Ireland.\nSince my first year as an undergrad I have been working in the microbiome-gut-brain axis. Although I started doing molecular work, I transitioned to fully computational 💻🧬 the year before starting my PhD, while still working in the industry.\nIn my daily life I like reading, hiking, drinking coffee and doing 3D design and printing.\n\n\nResearch interests\nMy research focuses in three key research areas:\n\n\nMicrobiome modulation of gut barrier integrity and its effects on host gut-brain health.\nThe study of the microbiome of underrepresented population and its implications on brain health.\nProbiotics and Psychobiotics development"
+    "text": "Benjamin Valderrama\n\n\n\n\n\n\nBluesky Github Scholar\n\n\n\nShort Bio\nI’m a PhD student doing computational biology to better understand the microbiome-gut-brain axis. I work under the supervision of Professors John F. Cryan and Gerard Clarke at APC microbiome Ireland.\nSince my first year as an undergrad I have been working in the microbiome-gut-brain axis. Although I started doing molecular work, I transitioned to fully computational 💻🧬 work some years ago.\nI’ve experience working in academia, industry, in their interface, and as a consultant.\nIn my daily life I like reading, hiking, drinking coffee and doing 3D design and printing.\n\n\nResearch interests\nMy research focuses in three areas:\n\n\nMicrobiome modulation of the gut barrier integrity and its effects on host gut-brain health.\nThe gut microbiome of underrepresented population and its implications on brain health.\nProbiotics and Psychobiotics development."
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Benjamin Valderrama",
     "section": "",
-    "text": "The Neuroactive Potential of the Elderly Human Gut Microbiome is Associated with Mental Health Status, Paulina Calderon-Romero, Benjamin Valderrama, Thomaz Bastiaanssen, Patricia Lillo, Daniela Thumala, Gerard Clarke, John F Cryan, Andrea Slachevsky, Christian Gonzalez-Billault, Felipe A. Court, BioRxive, 2024\n\n\n\n\n\nFrom in silico screening to in vivo validation in zebrafish - a framework for reeling in the right psychobiotics, Benjamin Valderrama, Isabelle Daly, Eoin Gunnigle, Kenneth J. O’Riordan, Maciej Chichlowski, Sagarika Banerjee, Alicja A. Skowronski, Neeraj Pandey, John F. Cryan, Gerard Clarke, Jatin Nagpal, Foods & Function, 2025."
+    "text": "You can visit my Google Scholar profile and ORCID for a full list of publications."
   },
   {
     "objectID": "about.html#about-me",
@@ -60,14 +60,14 @@
     "href": "books.html",
     "title": "Book chapters",
     "section": "",
-    "text": "Book chapters\n\n\n\nChapter 24 : Supervised Machine Learning - Orchestrating Microbiome Analysis (OMA) book.\n\nThe review of the chapter is open to anyone, and can be accessed here."
+    "text": "Book chapters\n\n\n\nChapter 26 : Machine Learning - Orchestrating Microbiome Analysis (OMA) book.\n\nThe review process of the chapter is open to anyone, and can be accessed here."
   },
   {
     "objectID": "saMBA.html",
     "href": "saMBA.html",
     "title": "The South American MicroBiome Archive (saMBA)",
     "section": "",
-    "text": "The South American MicroBiome Archive (saMBA)\nThe South American Microbiome Archive (saMBA) is the largest archive of gut microbiome samples from South American populations analysed under an unified workflow. Note that while the workflow was deployed to build an archive of gut microbiome samples from South Americans, it can be used to build similar resources using samples from other bodysites or pupulations living in other neglected world regions. The motivation to start this project is described here.\nThe main outputs generated while building saMBA can be downloaded from this Zenodo repository. The analysis of those outputs is described in this preprint.\n\n\nPlans for future developments\nBelow I share some ideas I’d like to implement to improve saMBA and to make it a useful resource for the entire community in the long run. I made this public to keep the users informed and to invite people interested in contributing in any of these points to reach out.\n\n\nBuild an R package to facilitate the download of the outputs in Zenodo\nImplement the package using Snakemake and share it in Bioconda.\nExpand saMBA (the resource) to include samples from other bodysites of southamericans.\nExpand the workflow to include the analysis of projects using whole genome sequencing."
+    "text": "The South American MicroBiome Archive (saMBA)\nThe South American Microbiome Archive (saMBA) is the largest archive of gut microbiome samples from South American populations analysed under an unified workflow. The main outputs generated while building saMBA can be downloaded from this Zenodo repository, and the analysis of those outputs is described in this preprint. The motivation to start this project is described here.\nNote that the workflow was made publicly available to propel microbiome research globally, specially in other neglected world regions. If interested in collaborating, please get in touch. Below there is a list of things I have in mind but I’m curious to see what you have to say.\n\n\nPlans for future developments\nBelow I share some ideas I’d like to implement to improve saMBA and to make it a useful resource for the entire community in the long run. I made this public to keep the users informed and to invite people interested in contributing in any of these points to reach out.\n\n\nBuild an R package to facilitate the download of the outputs in Zenodo\nImplement the workflow as a Docker image so users can deploy it.\n\nUpdate (01/Jun/2025): Docker image here\n\nExpand saMBA (the resource) to include samples from other bodysites of southamericans.\nExpand the workflow to include the analysis of projects using whole genome sequencing."
   },
   {
     "objectID": "CV.html",
@@ -108,8 +108,8 @@
     "objectID": "publications.html#full-list-of-publications",
     "href": "publications.html#full-list-of-publications",
     "title": "Benjamin Valderrama",
-    "section": "Full list of publications",
-    "text": "Full list of publications\nYou can visit my Google Scholar profile and ORCID for a full list of publications."
+    "section": "",
+    "text": "You can visit my Google Scholar profile and ORCID for a full list of publications."
   },
   {
     "objectID": "publications.html#selected-publications-on-my-key-research-areas",
@@ -117,5 +117,33 @@
     "title": "Benjamin Valderrama",
     "section": "",
     "text": "The Neuroactive Potential of the Elderly Human Gut Microbiome is Associated with Mental Health Status, Paulina Calderon-Romero, Benjamin Valderrama, Thomaz Bastiaanssen, Patricia Lillo, Daniela Thumala, Gerard Clarke, John F Cryan, Andrea Slachevsky, Christian Gonzalez-Billault, Felipe A. Court, BioRxive, 2024\n\n\n\n\n\nFrom in silico screening to in vivo validation in zebrafish - a framework for reeling in the right psychobiotics, Benjamin Valderrama, Isabelle Daly, Eoin Gunnigle, Kenneth J. O’Riordan, Maciej Chichlowski, Sagarika Banerjee, Alicja A. Skowronski, Neeraj Pandey, John F. Cryan, Gerard Clarke, Jatin Nagpal, Foods & Function, 2025."
+  },
+  {
+    "objectID": "publications.html#selected-publications-by-area",
+    "href": "publications.html#selected-publications-by-area",
+    "title": "Benjamin Valderrama",
+    "section": "Selected publications by area",
+    "text": "Selected publications by area\n\n\nUnderrepresented populations\n\nThe Neuroactive Potential of the Elderly Human Gut Microbiome is Associated with Mental Health Status, Paulina Calderon-Romero, Benjamin Valderrama, Thomaz Bastiaanssen, Patricia Lillo, Daniela Thumala, Gerard Clarke, John F Cryan, Andrea Slachevsky, Christian Gonzalez-Billault, Felipe A. Court, BioRxive, 2024\n\n\n\nProbiotics and Psychobiotics\n\nFrom in silico screening to in vivo validation in zebrafish - a framework for reeling in the right psychobiotics, Benjamin Valderrama, Isabelle Daly, Eoin Gunnigle, Kenneth J. O’Riordan, Maciej Chichlowski, Sagarika Banerjee, Alicja A. Skowronski, Neeraj Pandey, John F. Cryan, Gerard Clarke, Jatin Nagpal, Foods & Function, 2025."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Benjamin Valderrama",
+    "section": "",
+    "text": "I have a personal blog called “The Middle Author Bioinformatician” where I document my path to avoid becoming just another middle author bioinformatician.\nI write about Bioinformatics, Gut Microbiome, The Microbiome-Gut-Brain axis, Science in general and some personal thoughts."
+  },
+  {
+    "objectID": "blog.html#about-the-blog",
+    "href": "blog.html#about-the-blog",
+    "title": "Benjamin Valderrama",
+    "section": "",
+    "text": "I have a personal blog called “The Middle Author Bioinformatician” where I document my path to avoid becoming just another middle author bioinformatician.\nI write about Bioinformatics, Gut Microbiome, The Microbiome-Gut-Brain axis, Science in general and some personal thoughts."
+  },
+  {
+    "objectID": "blog.html#highlighted-posts",
+    "href": "blog.html#highlighted-posts",
+    "title": "Benjamin Valderrama",
+    "section": "Highlighted posts",
+    "text": "Highlighted posts\nClick on the images to go to the full post."
   }
 ]
