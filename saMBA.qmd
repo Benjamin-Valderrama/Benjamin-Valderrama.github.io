@@ -5,17 +5,18 @@ css: styles.css
 
 # The South American MicroBiome Archive (saMBA)
 
-The [South American Microbiome Archive (saMBA)]{.my_bold} is the largest archive of gut microbiome samples from South American populations analysed under an unified [workflow](https://github.com/Benjamin-Valderrama/saMBA-pipeline). Note that while the workflow was deployed to build an archive of gut microbiome samples from South Americans, it can be used to build similar resources using samples from other bodysites or pupulations living in other neglected world regions. The motivation to start this project is described [here](https://github.com/Benjamin-Valderrama/saMBA-pipeline/wiki/00.-About-the-project).
+The [South American Microbiome Archive (saMBA)]{.my_bold} is the largest archive of gut microbiome samples from South American populations analysed under an unified [workflow](https://github.com/Benjamin-Valderrama/saMBA-pipeline). The main outputs generated while building [saMBA]{.my_bold} can be downloaded from this [Zenodo](https://zenodo.org/records/15050380) repository, and the analysis of those outputs is described in this [preprint](https://www.biorxiv.org/content/10.1101/2025.04.03.647034v1). The motivation to start this project is described [here](https://github.com/Benjamin-Valderrama/saMBA-pipeline/wiki/00.-About-the-project).
 
-The main outputs generated while building [saMBA]{.my_bold} can be downloaded from this [Zenodo](https://zenodo.org/records/15050380) repository. The analysis of those outputs is described in this [preprint](https://www.biorxiv.org/content/10.1101/2025.04.03.647034v1). 
+Note that the workflow was made publicly available to propel microbiome research globally, specially in other neglected world regions. If interested in collaborating, please get in touch. Below there is a list of things I have in mind but I'm curious to see what you have to say.
 
 # Plans for future developments
 
 Below I share some ideas I'd like to implement to improve saMBA and to make it a useful resource for the entire community in the long run. I made this public to keep the users informed and to invite people interested in contributing in any of these points to reach out.
 
-:::{.bullet-list}
-- Build an R package to facilitate the download of the outputs in Zenodo
-- Implement the package using Snakemake and share it in Bioconda.
-- Expand [saMBA]{.my_bold} (the resource) to include samples from other bodysites of southamericans.
-- Expand the workflow to include the analysis of projects using whole genome sequencing.
+::: bullet-list
+-   Build an R package to facilitate the download of the outputs in Zenodo
+-   ~~Implement the workflow as a Docker image so users can deploy it.~~
+    -   [Update (01/Jun/2025)]{.my_bold}: Docker image [here](https://hub.docker.com/repository/docker/bvalderrama/samba/general)
+-   Expand [saMBA]{.my_bold} (the resource) to include samples from other bodysites of southamericans.
+-   Expand the workflow to include the analysis of projects using whole genome sequencing.
 :::
