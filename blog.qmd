@@ -11,8 +11,8 @@ css: styles.css
 
 ------------------------------------------------------------------------
 
-[![](images/clipboard-478560109.png){width="627"}](https://bvalderrama.substack.com/p/common-limitations-of-gut-microbiome)
+[![](images/blog_metaanalysis.png){fig-align="center" width="627"}](https://bvalderrama.substack.com/p/common-limitations-of-gut-microbiome)
 
 ------------------------------------------------------------------------
 
-[![](images/clipboard-2725081454.png)](https://bvalderrama.substack.com/p/when-good-science-goes-wrong-how)
+[![](images/blog_batches.png){fig-align="center"}](https://bvalderrama.substack.com/p/when-good-science-goes-wrong-how)

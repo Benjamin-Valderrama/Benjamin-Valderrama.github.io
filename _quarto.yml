@@ -18,9 +18,6 @@ website:
      - href: https://github.com/Benjamin-Valderrama/MVP
        text: "MVP"
 
-
-     
-
 format:
   html:
     theme: Lux
