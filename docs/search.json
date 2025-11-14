@@ -1,51 +1,9 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Benjamin Valderrama",
-    "section": "",
-    "text": "Short Bio\nI’m a Computational Biologist 💻🧬 with experience working in Academia, Industry, and at their interface. I’ve also served as a consultant and analyst in research projects involving multiomics biological data.\nI’m currently doing my PhD, where I’m focusing in developing and applying computational methods to better understand the microbiome-gut-brain axis. I work under the supervision of Professors John F. Cryan and Gerard Clarke at the APC microbiome Ireland.\nIn my daily life I like reading (mostly non-fiction), hiking, drinking coffee and doing 3D design and printing.\n\n\nResearch interests\nMy research focuses in three areas:\n\n\nMicrobiome modulation of the gut barrier integrity and its effects on host gut-brain health.\nThe gut microbiome of underrepresented population and its implications on brain health.\nProbiotics and Psychobiotics development."
-  },
-  {
-    "objectID": "saMBA.html",
-    "href": "saMBA.html",
-    "title": "The South American MicroBiome Archive (saMBA)",
-    "section": "",
-    "text": "The South American Microbiome Archive (saMBA) is the largest archive of gut microbiome samples from South American populations analysed under an unified workflow. The main outputs generated while building saMBA can be downloaded from this Zenodo repository, and the analysis of those outputs is described in this article. The motivation to start this project is described here.\nNote that the workflow was made publicly available to propel microbiome research globally, specially in other neglected world regions. If interested in collaborating, please get in touch. Below there is a list of things I have in mind but I’m curious to see what you have to say.\n\nPlans for future developments\nBelow I share some ideas I’d like to implement to improve saMBA and to make it a useful resource for the entire community in the long run. I made this public to keep the users informed and to invite people interested in contributing in any of these points to reach out.\n\n\nBuild an R package to facilitate the download of the outputs in Zenodo\nImplement the workflow as a Docker image so users can deploy it.\n\nUpdate (01/Jun/2025): Docker image here\n\nExpand saMBA (the resource) to include samples from other bodysites of southamericans.\nExpand the workflow to include the analysis of projects using whole genome sequencing."
-  },
-  {
     "objectID": "news.html",
     "href": "news.html",
     "title": "My work on the news",
     "section": "",
     "text": "The South American Microbiome Archive\n\n\nCNN Chile interviewed me and other microbiome experts about the project. The interview is online in YouTube (from minute 00:48 to 08:50). \n\n\n\n\n‘El Mercurio’, the largest Chilean newspaper, covered my research on the gut microbiome of South American populations. \n\n\n\n\nOpen Science: Transform your house into a laboratory\n\n\nA university news outlet covered the release of our science communication book. The book has instructions to perform simple scientific experiments and their explanations. It was released for free during the COVID-19 lockdown to encourage kids to learn about science. The book is free online (Spanish only)."
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "The Middle Author Bioinformatician",
-    "section": "",
-    "text": "“The Middle Author Bioinformatician” is where I write about Bioinformatics, Gut Microbiome, The Microbiome-Gut-Brain axis and Science in general. I also share some personal thoughts and document my path to becoming more than just another middle author bioinformatician."
-  },
-  {
-    "objectID": "blog.html#click-on-the-images-to-read-the-highlighted-posts.",
-    "href": "blog.html#click-on-the-images-to-read-the-highlighted-posts.",
-    "title": "The Middle Author Bioinformatician",
-    "section": "Click on the images to read the highlighted posts.",
-    "text": "Click on the images to read the highlighted posts."
-  },
-  {
-    "objectID": "CV.html",
-    "href": "CV.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Work in progress…"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Selected publications by area",
-    "section": "",
-    "text": "A full list of all my publications can be found at Google Scholar or ORCID. Below there is a list of selected publications on key areas of my research.\n\n\nMicrobiome in underrepresented populations\n\n\nThe South American MicroBiome Archive (saMBA): enriching the microbiome field by studying neglected populations, (2025), Benjamin Valderrama, Paulina Calderon-Romero, Thomaz FS Bastiaanssen, Aonghus Lavelle, Gerard Clarke, John F Cryan, Nature Communications.\nThe Neuroactive Potential of the Elderly Human Gut Microbiome is Associated with Mental Health Status, (2024), Paulina Calderon-Romero, Benjamin Valderrama, Thomaz Bastiaanssen, Patricia Lillo, Daniela Thumala, Gerard Clarke, John F Cryan, Andrea Slachevsky, Christian Gonzalez-Billault, Felipe A. Court, BioRxive.\n\n\n\n\nProbiotics and Psychobiotics\n\n\nIn vitro assessment of bacterial supernatants on hypothalamic gene expression: implications for appetite regulation (2025), Cristina Cuesta-Marti, Benjamin Valderrama, Thomaz Bastiaanssen, John F Cryan, Catherine Stanton, Siobhain M O’Mahony, Gerard Clarke, Harriet Schellekens, npj Biofilms and Microbiomes.\nFrom in silico screening to in vivo validation in zebrafish - a framework for reeling in the right psychobiotics, (2024), Benjamin Valderrama, Isabelle Daly, Eoin Gunnigle, Kenneth J. O’Riordan, Maciej Chichlowski, Sagarika Banerjee, Alicja A. Skowronski, Neeraj Pandey, John F. Cryan, Gerard Clarke, Jatin Nagpal, Foods & Function.\n\n\n\n\nBioinformatics\n\n\nOrchestrating Microbiome Analysis with Bioconductor, (2025), Tuomas Borman, Giulio Benedetti, Geraldson Muluh, Aura Raulo, Benjamin Valderrama, Artur Sannikov, Stefanie Peschel, Yihan Liu, Rasmus Hindstrom, OMA consortium, Katariina Parnanen, Christian L. Muller, Aki S. Havulinna, Sudarshan Shetty, Marcel Ramos, Domenick J. Braccia, Hector Corrada Bravo, Felix M. Ernst, Levi Waldron, Thomaz F. S. Bastiaanssen, Himel Mallick, Leo Lahti. Under Review at Nature Biotechnology.\nChapter 26 : Machine Learning - Orchestrating Microbiome Analysis (OMA) book, (2025), Benjamin Valderrama. The review of the chapter is open to anyone, and can be accessed here."
   }
 ]
