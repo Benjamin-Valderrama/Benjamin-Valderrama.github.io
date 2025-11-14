@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "About me"
+  title: "Benjamin Valderrama"
   navbar:
      background: primary
      left:

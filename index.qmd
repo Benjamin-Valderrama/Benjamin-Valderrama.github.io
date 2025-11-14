@@ -7,7 +7,7 @@ about:
         template: jolla
 ---
 
-![Portrait](images/me.png){fig-align="center" width="293"}
+![](images/me.png){fig-align="center" width="293"}
 
 ::: {.d-flex .justify-content-center .gap-3 .flex-wrap}
 <!-- Google Scholar -->
