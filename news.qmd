@@ -1,0 +1,21 @@
+---
+title: "My work on the news"
+format: html
+css: styles.css
+---
+
+## The South American Microbiome Archive
+
+::: bullet-list
+-   CNN Chile interviewed me and other microbiome experts about the project. The interview is online in [YouTube](https://youtu.be/2TQiuFNrDeU?si=6Tvon4BLpK0yc5u9) (from minute 00:48 to 08:50) [![](figs/cnn.png){width="318"}](https://youtu.be/2TQiuFNrDeU?si=6Tvon4BLpK0yc5u9)
+
+<br>
+
+-   '[El Mercurio](https://www.litoralpress.cl/sitio/Prensa_PaginaCompleta.cshtml?LPKey=GGX3UURBMR5FKIG57QBKZTWKG6R4RDGUOX2NORIWSQIKAH5RF6RA)', the largest Chilean newspaper, covered my research on the gut microbiome of South American populations. [![](figs/mercurio.png){width="424"}](https://www.litoralpress.cl/sitio/Prensa_PaginaCompleta.cshtml?LPKey=GGX3UURBMR5FKIG57QBKZTWKG6R4RDGUOX2NORIWSQIKAH5RF6RA)
+:::
+
+## Open Science: Transform your house into a laboratory
+
+::: bullet-list
+[A university news outlet](https://biologia.uc.cl/convierte-tu-casa-en-un-laboratorio/) covered the release of our science communication book. The book has instructions to perform simple scientific experiments and their explanations. It was released for free during the COVID-19 lockdown to encourage kids to learn about science. [The book is free online](https://shorturl.at/3XgCm) (Spanish only).
+:::

@@ -1,12 +1,13 @@
-## **About the blog** {style="white"}
+---
+title: "The Middle Author Bioinformatician"
+css: styles.css
+---
 
-I have a personal blog called "[The Middle Author Bioinformatician](https://bvalderrama.substack.com/)" where I document my path to avoid becoming just another middle author bioinformatician.
+"[The Middle Author Bioinformatician](https://bvalderrama.substack.com/)" is where I write about Bioinformatics, Gut Microbiome, The Microbiome-Gut-Brain axis and Science in general. I also share some personal thoughts and document my path to becoming more than just another middle author bioinformatician.
 
-I write about Bioinformatics, Gut Microbiome, The Microbiome-Gut-Brain axis, Science in general and some personal thoughts.
+<br>
 
-## Highlighted posts
-
-Click on the images to go to the full post.
+## Click on the images to read the highlighted posts.
 
 ------------------------------------------------------------------------
 

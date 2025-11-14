@@ -3,24 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "Benjamin Valderrama"
+  title: "About me"
   navbar:
      background: primary
      left:
-     - href: about.qmd
-       text: "Home"
-     - href: CV.qmd
-       text: "CV"
-     - href: publications.qmd
-       text: "publications"
-     - href: books.qmd
-       text: "Book chapters"
+     - href: research.qmd
+       text: "Research"
+     - href: news.qmd
+       text: "News coverage"
+     - href: blog.qmd
+       text: "My blog"
      - href: saMBA.qmd
        text: "saMBA"
      - href: https://github.com/Benjamin-Valderrama/MVP
-       text: "MVP Repo"
-     - href: blog.qmd
-       text: "My blog"
+       text: "MVP"
+
 
      
 
