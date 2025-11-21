@@ -1,15 +1,19 @@
 ---
-title: "The South American MicroBiome Archive (saMBA)"
 css: styles.css
 ---
 
-The [South American Microbiome Archive (saMBA)]{.my_bold} is the largest archive of gut microbiome samples from South American populations analysed under an unified [workflow](https://github.com/Benjamin-Valderrama/saMBA-pipeline). The main outputs generated while building [saMBA]{.my_bold} can be downloaded from this [Zenodo](https://zenodo.org/records/15050380) repository, and the analysis of those outputs is described in this [article](https://www.nature.com/articles/s41467-025-62601-4). The motivation to start this project is described [here](https://github.com/Benjamin-Valderrama/saMBA-pipeline/wiki/00.-About-the-project).
+# The South American MicroBiome Archive (saMBA)
 
-Note that the workflow was made publicly available to propel microbiome research globally, specially in other neglected world regions. If interested in collaborating, please get in touch. Below there is a list of things I have in mind but I'm curious to see what you have to say.
+The [South American Microbiome Archive (saMBA)](https://www.nature.com/articles/s41467-025-62601-4){.my_bold} is the largest archive of gut microbiome samples from South American populations analysed under an unified [workflow](https://github.com/Benjamin-Valderrama/saMBA-pipeline). 
+
+The [article](https://www.nature.com/articles/s41467-025-62601-4) describes the process of gathering and analysing the microbiome data, as well as the main findings. The harmonised dataset can be downloaded from [Zenodo](https://zenodo.org/records/15050380) and the workflow used in the analysis is available on [GitHub](https://github.com/Benjamin-Valderrama/saMBA-pipeline/). All generated resources, including the article, are publicly available to propel microbiome research globally, specially in other neglected world regions.
+
+
+The motivation to start this project is described [here](https://github.com/Benjamin-Valderrama/saMBA-pipeline/wiki/00.-About-the-project). If it resonated and you're interested in collaborating, please [get in touch](https://benjamin-valderrama.github.io/). 
 
 # Plans for future developments
 
-Below I share some ideas I'd like to implement to improve saMBA and to make it a useful resource for the entire community in the long run. I made this public to keep the users informed and to invite people interested in contributing in any of these points to reach out.
+Below I share some ideas to expand saMBA. I made this public to keep the users informed and to invite people interested in contributing in any of these points to reach out.
 
 ::: bullet-list
 -   Build an R package to facilitate the download of the outputs in Zenodo

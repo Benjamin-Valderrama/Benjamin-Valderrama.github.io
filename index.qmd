@@ -48,13 +48,13 @@ about:
 
 # Short Bio
 
-I'm a [Computational Biologist]{.my_bold} :computer::dna: with experience working in Academia, Industry, and at their interface. I've also served as a consultant and analyst in research projects involving multiomics biological data.
+I'm a [Computational Biologist]{.my_bold} :computer::dna: with research experience in Academia, Industry, and their interface. I've also served as a consultant and analyst in research projects involving multiomics analysis of complex biological data.
 
-I'm currently doing my PhD, where I'm focusing in developing and applying computational methods to better understand the [microbiome-gut-brain axis]{.my_bold}. I work under the supervision of Professors John F. Cryan and Gerard Clarke at the [APC microbiome Ireland](https://www.ucc.ie/en/apc/).
+I'm currently doing my PhD, where I develop and apply computational methods to better understand the [microbiome-gut-brain axis]{.my_bold}. I work under the supervision of Professors John F. Cryan and Gerard Clarke at the [APC microbiome Ireland](https://www.ucc.ie/en/apc/).
 
 In my daily life I like reading (mostly non-fiction), hiking, drinking coffee and doing 3D design and printing.
 
-# Research interests
+# Research Interests
 
 My research focuses in three areas:
 

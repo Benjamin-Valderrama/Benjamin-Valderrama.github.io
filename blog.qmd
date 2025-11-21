@@ -7,7 +7,9 @@ css: styles.css
 
 <br>
 
-## Click on the images to read the highlighted posts.
+## Highlighted posts
+
+Click on the image to read the full post
 
 ------------------------------------------------------------------------
 
