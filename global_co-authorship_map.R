@@ -46,7 +46,7 @@ extract_countries <- function(text) {
                 country <- "United Kingdom"
                 
         } else if (grepl(x = text, pattern = ".*USA[.]$|.*USA$|.*US[.]$|.*US$")) {
-                country <- "United States of America"
+                country <- "United States"
                 
         # Any other case
         } else {
@@ -72,7 +72,11 @@ countries_clean <- countries_raw %>%
         distinct(country_std)
 
 # Prepare world map data for plotting
-world <- ne_countries(scale = "medium", returnclass = "sf")
+world <- ne_countries(scale = "medium", returnclass = "sf") %>% 
+        # fix the US missmatch
+        mutate(name = ifelse(name == "United States of America", 
+                             yes = "United States", 
+                             no = name))
 
 world_map <- world %>%
         filter(continent != "Antarctica") %>% 
@@ -86,12 +90,12 @@ collab_map <- ggplot(world_map) +
         coord_sf(crs = "+proj=robin", expand = FALSE) +
         
         # custom color for countries if co-authors are found or not
-        scale_fill_manual(values = c("TRUE" = "red3", "FALSE" = "grey70"),
-                          labels = c("Co-author country", "No Co-authors"),
+        scale_fill_manual(values = c("TRUE" = "#C9261B", "FALSE" = "grey75"),
+                          labels = c("No Co-authors", "Co-author country"),
                           name = "") +
         # labs
         labs(#title = "My Global Co-authorship Map",
-             caption = "Based on PubMed affiliation data") +
+             caption = "Affiliation data for co-authors were obtained from PubMed") +
         
         # remove white color from legend
         guides(color = guide_legend(override.aes = TRUE)) +
