@@ -13,11 +13,16 @@ css: styles.css
 :::
 
 ::: bullet-list
--   ['El Mercurio'](https://www.litoralpress.cl/sitio/Prensa_PaginaCompleta.cshtml?LPKey=GGX3UURBMR5FKIG57QBKZTWKG6R4RDGUOX2NORIWSQIKAH5RF6RA){.my_bold}, the largest newspaper in Chile, covered my research on the gut microbiome of South American populations.
+-   [El Mercurio](https://www.litoralpress.cl/sitio/Prensa_PaginaCompleta.cshtml?LPKey=GGX3UURBMR5FKIG57QBKZTWKG6R4RDGUOX2NORIWSQIKAH5RF6RA){.my_bold}, the largest newspaper in Chile, covered my research on the gut microbiome of South American populations.
 
 [![](images/mercurio.png){fig-align="center" width="424"}](https://www.litoralpress.cl/sitio/Prensa_PaginaCompleta.cshtml?LPKey=GGX3UURBMR5FKIG57QBKZTWKG6R4RDGUOX2NORIWSQIKAH5RF6RA)
 
-- ['The Microbiologist'](https://www.the-microbiologist.com/opinion/key-lessons-from-the-samba-studies-on-human-gut-microbiome-diversity/6629.article){.my_bold} Covered the relevance of our work in an opinion piece writen by Yang Yue
+- [Microbiome Digest](https://microbiomedigest.com/2025/04/10/april-11-2025/){.my_bold} featured our work on its daily news.
+
+- [The Microbiologist](https://www.the-microbiologist.com/opinion/key-lessons-from-the-samba-studies-on-human-gut-microbiome-diversity/6629.article){.my_bold} covered the relevance of our work in an opinion piece writen by Yang Yue.
+
+- [University College Cork Research News](https://www.ucc.ie/en/research/news/2025/ucc-researchers-develop-the-largest-archive-of-gut-microbiomes-in-south-america.html){.my_bold} featured our work and highlighted its relevance.
+
 :::
 
 ### Open Science: Transform your house into a laboratory

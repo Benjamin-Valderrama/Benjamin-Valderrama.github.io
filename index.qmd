@@ -52,7 +52,7 @@ I'm a [Computational Biologist]{.my_bold} :computer::dna: with research experien
 
 I'm currently doing my PhD, where I develop and apply computational methods to better understand the [microbiome-gut-brain axis]{.my_bold}. I work under the supervision of Professors John F. Cryan and Gerard Clarke at the [APC microbiome Ireland](https://www.ucc.ie/en/apc/).
 
-In my daily life I like reading (mostly non-fiction), hiking, drinking coffee and doing 3D design and printing.
+In my daily life I like reading books (mostly non-fiction), hiking, drinking coffee and doing 3D design and printing.
 
 # Research Interests
 
