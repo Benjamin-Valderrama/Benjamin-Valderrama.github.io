@@ -91,7 +91,8 @@ collab_map <- ggplot(world_map) +
         
         # custom color for countries if co-authors are found or not
         scale_fill_manual(values = c("TRUE" = "#C9261B", "FALSE" = "grey75"),
-                          labels = c("No Co-authors", "Co-author country"),
+                          breaks = c("TRUE", "FALSE"),
+                          labels = c("Co-authored", "Not co-authored (yet)"), 
                           name = "") +
         # labs
         labs(#title = "My Global Co-authorship Map",
@@ -103,7 +104,7 @@ collab_map <- ggplot(world_map) +
         theme_void() +
         theme(# legend position
               legend.position = "inside",
-              legend.position.inside = c(0.125, 0.4),
+              legend.position.inside = c(0.17, 0.3),
               
               # text size
               #plot.title = element_text(size = 12, hjust = 0.5),
