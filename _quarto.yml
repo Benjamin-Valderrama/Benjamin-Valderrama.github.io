@@ -12,7 +12,7 @@ website:
      - href: news.qmd
        text: "ON THE NEWS"
      - href: blog.qmd
-       text: "My Blog"
+       text: "BLOG"
      - href: saMBA.qmd
        text: "saMBA"
      - href: https://github.com/Benjamin-Valderrama/MVP
