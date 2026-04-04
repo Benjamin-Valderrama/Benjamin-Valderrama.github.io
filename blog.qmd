@@ -3,18 +3,127 @@ title: "The Middle Author Bioinformatician"
 css: styles.css
 ---
 
-"[The Middle Author Bioinformatician](https://bvalderrama.substack.com/)" is where I write about Bioinformatics, Gut Microbiome, The Microbiome-Gut-Brain axis and Science in general. I also share some personal thoughts and document my path to becoming more than just another middle author bioinformatician.
+I write about Bioinformatics, Gut Microbiome, The Microbiome-Gut-Brain axis and Science in general. I also share some personal thoughts and keep track of my path to becoming something more than just another middle author bioinformatician.
 
 <br>
 
-## Highlighted posts
+<input type="text" id="searchInput" placeholder="Search posts..." style="margin-bottom:20px; padding:8px; width:100%; max-width:400px;">
 
-Click on the image to read the full post
+::: {#posts-container .posts-grid}
+:::
 
-------------------------------------------------------------------------
+```{=html}
+<script>
+const posts = [
+  {
+    title: "Common Limitations of Gut Microbiome Meta-Analyses Undermine their Credibility",
+    description: "Reading time: 10 mins",
+    image: "images/blog_metaanalysis.png",
+    link: "https://bvalderrama.substack.com/p/common-limitations-of-gut-microbiome"
+  },
+  {
+    title: "When Good Science Goes Wrong: How Batch Effects Can Obscure Biology",
+    description: "Reading time: 10 mins",
+    image: "images/blog_batch.png",
+    link: "https://bvalderrama.substack.com/p/when-good-science-goes-wrong-how"
+  },
+  {
+    title: "The South American MicroBiome Archive",
+    description: "Reading time: 1 min",
+    image: "images/blog_samba.png",
+    link: "https://bvalderrama.substack.com/p/common-limitations-of-gut-microbiome"
+  },
+  {
+    title: "If I Had to Learn to Code Again ...",
+    description: "Reading time: 2 mins",
+    image: "images/blog_code_again.png",
+    link: "https://bvalderrama.substack.com/p/if-i-had-to-learn-to-code-again"
+  }
+];
+</script>
+```
 
-[![](images/blog_metaanalysis.png){fig-align="center" width="627"}](https://bvalderrama.substack.com/p/common-limitations-of-gut-microbiome)
 
-------------------------------------------------------------------------
+```{=html}
+<script>
+const container = document.getElementById("posts-container");
 
-[![](images/blog_batches.png){fig-align="center"}](https://bvalderrama.substack.com/p/when-good-science-goes-wrong-how)
+function displayPosts(filteredPosts) {
+  container.innerHTML = "";
+
+  filteredPosts.forEach(post => {
+    const card = document.createElement("div");
+    card.className = "post-card";
+
+    card.innerHTML = `
+      <a href="${post.link}" target="_blank">
+        <img src="${post.image}" alt="${post.title}">
+        <h3>${post.title}</h3>
+        <p>${post.description}</p>
+      </a>
+    `;
+
+    container.appendChild(card);
+  });
+}
+
+displayPosts(posts);
+</script>
+```
+```{=html}
+<script>
+document.getElementById("searchInput").addEventListener("input", function(e) {
+  const query = e.target.value.toLowerCase();
+
+  const filtered = posts.filter(post =>
+    post.title.toLowerCase().includes(query) ||
+    post.description.toLowerCase().includes(query)
+  );
+
+  displayPosts(filtered);
+});
+</script>
+```
+```{=html}
+<style>
+.posts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+.post-card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  overflow: hidden;
+  transition: transform 0.2s, box-shadow 0.2s;
+  background: white;
+}
+
+.post-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.post-card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+.post-card h3 {
+  margin: 10px;
+  font-size: 1.2rem;
+}
+
+.post-card p {
+  margin: 10px;
+  color: #555;
+}
+
+.post-card a {
+  text-decoration: none;
+  color: inherit;
+}
+</style>
+```

@@ -10,9 +10,9 @@ website:
      - href: research.qmd
        text: "Research"
      - href: news.qmd
-       text: "News coverage"
+       text: "ON THE NEWS"
      - href: blog.qmd
-       text: "My blog"
+       text: "My Blog"
      - href: saMBA.qmd
        text: "saMBA"
      - href: https://github.com/Benjamin-Valderrama/MVP

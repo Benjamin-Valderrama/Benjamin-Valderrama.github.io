@@ -94,11 +94,11 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./news.html"> 
-<span class="menu-text">News coverage</span></a>
+<span class="menu-text">ON THE NEWS</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./blog.html" aria-current="page"> 
-<span class="menu-text">My blog</span></a>
+<span class="menu-text">BLOG</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./saMBA.html"> 
@@ -120,13 +120,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#highlighted-posts" id="toc-highlighted-posts" class="nav-link active" data-scroll-target="#highlighted-posts">Highlighted posts</a></li>
-  </ul>
-</nav>
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -150,26 +144,119 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>“<a href="https://bvalderrama.substack.com/">The Middle Author Bioinformatician</a>” is where I write about Bioinformatics, Gut Microbiome, The Microbiome-Gut-Brain axis and Science in general. I also share some personal thoughts and document my path to becoming more than just another middle author bioinformatician.</p>
+<p>I write about Bioinformatics, Gut Microbiome, The Microbiome-Gut-Brain axis and Science in general. I also share some personal thoughts and keep track of my path to becoming something more than just another middle author bioinformatician.</p>
 <p><br></p>
-<section id="highlighted-posts" class="level2">
-<h2 class="anchored" data-anchor-id="highlighted-posts">Highlighted posts</h2>
-<p>Click on the image to read the full post</p>
-<hr>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://bvalderrama.substack.com/p/common-limitations-of-gut-microbiome"><img src="images/blog_metaanalysis.png" class="img-fluid quarto-figure quarto-figure-center figure-img" width="627"></a></p>
-</figure>
+<p><input type="text" id="searchInput" placeholder="Search posts..." style="margin-bottom:20px; padding:8px; width:100%; max-width:400px;"></p>
+<div id="posts-container" class="posts-grid">
+
 </div>
-<hr>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://bvalderrama.substack.com/p/when-good-science-goes-wrong-how"><img src="images/blog_batches.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></a></p>
-</figure>
-</div>
+<script>
+const posts = [
+  {
+    title: "Common Limitations of Gut Microbiome Meta-Analyses Undermine their Credibility",
+    description: "Reading time: 10 mins",
+    image: "images/blog_metaanalysis.png",
+    link: "https://bvalderrama.substack.com/p/common-limitations-of-gut-microbiome"
+  },
+  {
+    title: "When Good Science Goes Wrong: How Batch Effects Can Obscure Biology",
+    description: "Reading time: 10 mins",
+    image: "images/blog_batch.png",
+    link: "https://bvalderrama.substack.com/p/when-good-science-goes-wrong-how"
+  },
+  {
+    title: "The South American MicroBiome Archive",
+    description: "Reading time: 1 min",
+    image: "images/blog_samba.png",
+    link: "https://bvalderrama.substack.com/p/common-limitations-of-gut-microbiome"
+  },
+  {
+    title: "If I Had to Learn to Code Again ...",
+    description: "Reading time: 2 mins",
+    image: "images/blog_code_again.png",
+    link: "https://bvalderrama.substack.com/p/if-i-had-to-learn-to-code-again"
+  }
+];
+</script>
+<script>
+const container = document.getElementById("posts-container");
+
+function displayPosts(filteredPosts) {
+  container.innerHTML = "";
+
+  filteredPosts.forEach(post => {
+    const card = document.createElement("div");
+    card.className = "post-card";
+
+    card.innerHTML = `
+      <a href="${post.link}" target="_blank">
+        <img src="${post.image}" alt="${post.title}">
+        <h3>${post.title}</h3>
+        <p>${post.description}</p>
+      </a>
+    `;
+
+    container.appendChild(card);
+  });
+}
+
+displayPosts(posts);
+</script>
+<script>
+document.getElementById("searchInput").addEventListener("input", function(e) {
+  const query = e.target.value.toLowerCase();
+
+  const filtered = posts.filter(post =>
+    post.title.toLowerCase().includes(query) ||
+    post.description.toLowerCase().includes(query)
+  );
+
+  displayPosts(filtered);
+});
+</script>
+<style>
+.posts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+.post-card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  overflow: hidden;
+  transition: transform 0.2s, box-shadow 0.2s;
+  background: white;
+}
+
+.post-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.post-card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+.post-card h3 {
+  margin: 10px;
+  font-size: 1.2rem;
+}
+
+.post-card p {
+  margin: 10px;
+  color: #555;
+}
+
+.post-card a {
+  text-decoration: none;
+  color: inherit;
+}
+</style>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

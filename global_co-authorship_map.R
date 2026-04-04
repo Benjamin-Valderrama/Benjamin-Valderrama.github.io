@@ -90,13 +90,13 @@ collab_map <- ggplot(world_map) +
         coord_sf(crs = "+proj=robin", expand = FALSE) +
         
         # custom color for countries if co-authors are found or not
-        scale_fill_manual(values = c("TRUE" = "#C9261B", "FALSE" = "grey75"),
+        scale_fill_manual(values = c("TRUE" = "tomato3", "FALSE" = "grey75"),
                           breaks = c("TRUE", "FALSE"),
                           labels = c("Co-authored", "Not co-authored (yet)"), 
                           name = "") +
         # labs
         labs(#title = "My Global Co-authorship Map",
-             caption = "Affiliation data for co-authors were obtained from PubMed") +
+             caption = "Co-authors' affiliation data was obtained from PubMed") +
         
         # remove white color from legend
         guides(color = guide_legend(override.aes = TRUE)) +
