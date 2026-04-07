@@ -10,7 +10,6 @@ css: styles.css
 A full list of all my publications can be found at [Google Scholar](https://scholar.google.com/citations?hl=en&user=fteDslYAAAAJ&view_op=list_works&sortby=pubdate) and [ORCID](https://orcid.org/0000-0002-4740-8965).
 
 <br>
-<br>
 
 # Selected publications in key areas
 
@@ -42,7 +41,6 @@ A full list of all my publications can be found at [Google Scholar](https://scho
 -   [Chapter 26 : Machine Learning](https://microbiome.github.io/OMA/docs/devel/pages/machine_learning.html) - [Orchestrating Microbiome Analysis (OMA) book]{.my_bold}, (2025), [Benjamin Valderrama]{.my_bold}. The review of the chapter is open to anyone, and can be accessed [here](https://github.com/microbiome/OMA/commit/64262b2170b6207e7f528eeef7054d036d31a6c2).
 :::
 
-<br>
 <br>
 
 # My Global Co-authorship Map

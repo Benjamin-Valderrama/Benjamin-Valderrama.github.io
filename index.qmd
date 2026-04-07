@@ -34,7 +34,7 @@ about:
 <!-- CV Download -->
 
 <a class="btn btn-outline-primary rounded-circle p-2"
-     href="files/bv_CV2025.pdf"
+     href="files/CV2026_BValderrama.pdf"
      download
      title="Download Full CV"> <i class="bi bi-file-earmark-text-fill" style="font-size:1.5rem;"></i> </a>
 
