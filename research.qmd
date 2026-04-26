@@ -13,12 +13,14 @@ A full list of all my publications can be found at [Google Scholar](https://scho
 
 # Selected publications in key areas
 
-### 1. Microbiome in global populations
+### 1. Microbiome-Gut-Brain axis across global populations
 
 ::: bullet-list
 -   [The South American MicroBiome Archive (saMBA): enriching the microbiome field by studying neglected populations](https://www.nature.com/articles/s41467-025-62601-4){.my_bold}, (2025), [Benjamin Valderrama]{.my_bold}, Paulina Calderon-Romero, Thomaz FS Bastiaanssen, Aonghus Lavelle, Gerard Clarke, John F Cryan, [Nature Communications]{.my_bold}.
 
--   [The Neuroactive Potential of the Elderly Human Gut Microbiome is Associated with Mental Health Status](https://www.biorxiv.org/content/10.1101/2024.08.08.607034v1.abstract){.my_bold}, (2024), Paulina Calderon-Romero, [Benjamin Valderrama]{.my_bold}, Thomaz Bastiaanssen, Patricia Lillo, Daniela Thumala, Gerard Clarke, John F Cryan, Andrea Slachevsky, Christian Gonzalez-Billault, Felipe A. Court, [bioRxiv]{.my_bold}.
+-   [Global environmental change and the gut-kidney-brain axis: a review and framework of vulnerability and resilience](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(26)00026-4/fulltext){.my_bold}, Shazia Adalat, Konstantinos Giannakou, [Benjamin Valderrama]{.my_bold}, Juan Guillermo Cardenas-Aguilera, Giorgos K Sakkas, Jonathan Overeem, Gaye Hafez, Dearbhla Kelly, Jelena Vulevic, Guohua He, Silvia M Mihaila, Alessandra Tammaro, Burcin Ikiz, Prof John F Cryan, [The Lancet Planetary Health]{.my_bold}
+
+-   [The Neuroactive Potential of the Elderly Human Gut Microbiome is Associated with Mental Health Status](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0343493){.my_bold}, (2024), Paulina Calderon-Romero, [Benjamin Valderrama]{.my_bold}, Thomaz Bastiaanssen, Patricia Lillo, Daniela Thumala, Gerard Clarke, John F Cryan, Andrea Slachevsky, Christian Gonzalez-Billault, Felipe A. Court, [PLOS One]{.my_bold}.
 :::
 
 ----

@@ -82,6 +82,10 @@ world_map <- world %>%
         filter(continent != "Antarctica") %>% 
         mutate(has_coauthor = name %in% countries_clean$country_std)
 
+Sys.setlocale("LC_TIME", "en_US.UTF-8")
+caption <- paste("Co-authors' affiliation data were retrieved from PubMed in",
+                 format(Sys.Date(), "%B %Y"))
+
 # Make plot
 collab_map <- ggplot(world_map) +
         geom_sf(aes(fill = has_coauthor), color = "white", size = 0.05) +
@@ -96,7 +100,7 @@ collab_map <- ggplot(world_map) +
                           name = "") +
         # labs
         labs(#title = "My Global Co-authorship Map",
-             caption = "Co-authors' affiliation data was obtained from PubMed") +
+             caption = caption) +
         
         # remove white color from legend
         guides(color = guide_legend(override.aes = TRUE)) +

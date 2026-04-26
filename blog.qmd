@@ -1,11 +1,16 @@
 ---
 title: "The Middle Author Bioinformatician"
 css: styles.css
+execute: 
+  echo: false
+  
 ---
 
-I write about Bioinformatics, Gut Microbiome, The Microbiome-Gut-Brain axis and Science in general. I also share some personal thoughts and keep track of my path to becoming something more than just another middle author bioinformatician.
+In [The middle author bioinformatician](https://bvalderrama.substack.com/) I write about Bioinformatics, Gut Microbiome, The Microbiome-Gut-Brain axis and Science in general. I also share some personal thoughts and keep track of my path to becoming something more than just another middle author bioinformatician.
 
 <br>
+
+Below you can find some of the posts
 
 <input type="text" id="searchInput" placeholder="Search posts..." style="margin-bottom:20px; padding:8px; width:100%; max-width:800px;">
 
@@ -31,7 +36,13 @@ const posts = [
     title: "The South American MicroBiome Archive",
     description: "Reading time: 1 min",
     image: "/images/blog_samba.png",
-    link: "https://bvalderrama.substack.com/p/common-limitations-of-gut-microbiome"
+    link: "https://bvalderrama.substack.com/p/the-south-american-microbiome-archive"
+  },
+  {
+    title: "Three Skills for a PhD We Should All Develop",
+    description: "Reading time: 5 mins",
+    image: "/images/blog_phdskills.png",
+    link: "https://bvalderrama.substack.com/p/three-skills-for-a-phd-we-should"
   },
   {
     title: "If I Had to Learn to Code Again ...",
