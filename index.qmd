@@ -29,7 +29,7 @@ about:
 <a class="btn btn-outline-primary rounded-circle p-2"
      href="https://bsky.app/profile/bvalderrama.bsky.social"
      target="_blank"
-     title="GitHub"> <i class="bi bi-bluesky" style="font-size:1.5rem;"></i> </a>
+     title="BlueSky"> <i class="bi bi-bluesky" style="font-size:1.5rem;"></i> </a>
 
 <!-- CV Download -->
 
@@ -45,6 +45,8 @@ about:
      target="_blank"
      title="GitHub"> <i class="bi bi-github" style="font-size:1.5rem;"></i> </a>
 :::
+
+<p style="text-align: center"> You can contact me at: contact@bvalderrama.com </p>
 
 # Short Bio
 
