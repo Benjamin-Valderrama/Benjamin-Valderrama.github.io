@@ -13,7 +13,7 @@ about:
 <!-- Google Scholar -->
 
 <a class="btn btn-outline-primary rounded-circle p-2"
-     href="https://scholar.google.com/citations?hl=en&user=fteDslYAAAAJ&view_op=list_works&sortby=pubdate"
+     href="https://scholar.google.com/citations?hl=en&user=ksAx1HEAAAAJ&view_op=list_works&authuser=1&sortby=pubdate"
      target="_blank"
      title="Google Scholar"> <i class="bi bi-mortarboard-fill" style="font-size:1.5rem;"></i> </a>
 

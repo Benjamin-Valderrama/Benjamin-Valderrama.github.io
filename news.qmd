@@ -22,6 +22,8 @@ css: styles.css
 
 [![](images/apc_spotlight.png){fig-align="center" width="600" height="240"}](https://www.ucc.ie/en/apc/about/impact/#2024-2025-report-impact-through-excellence)
 
+-   [Research Ireland](https://www.researchireland.ie/news/largest-gut-microbiomes-archive/){.my_bold}, Ireland's research funding agency covered the main findings and relevance of our work.
+
 -   [Microbiome Digest](https://microbiomedigest.com/2025/04/10/april-11-2025/){.my_bold} featured our work on its daily news.
 
 -   [The Microbiologist](https://www.the-microbiologist.com/opinion/key-lessons-from-the-samba-studies-on-human-gut-microbiome-diversity/6629.article){.my_bold} covered the relevance of our work in an opinion piece writen by Yang Yue.
