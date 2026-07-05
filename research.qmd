@@ -7,7 +7,7 @@ css: styles.css
 
 # Complete list of publications
 
-A full list of all my publications can be found at [Google Scholar](https://scholar.google.com/citations?hl=en&user=fteDslYAAAAJ&view_op=list_works&sortby=pubdate) and [ORCID](https://orcid.org/0000-0002-4740-8965).
+A full list of all my publications can be found at [Google Scholar](https://scholar.google.com/citations?hl=en&user=ksAx1HEAAAAJ&view_op=list_works&authuser=1&sortby=pubdate) and [ORCID](https://orcid.org/0000-0002-4740-8965).
 
 <br>
 
