@@ -52,7 +52,7 @@ about:
 
 I'm a [Computational Biologist]{.my_bold} :computer::dna: with seven years of research experience distilling biological insight from large and complex multidimensional datasets. I've worked across academia, industry and at their interface, as well as serving as a consultant and analyst for academic research groups.
 
-I'm currently doing my PhD, where I focus on the balanced integration of global-scale microbiome datasets with biologically-grounded analytical approaches to unravel the complexity of the [microbiome-gut-brain axis]{.my_bold}. My work is supervised by Professors John F. Cryan and Gerard Clarke at the APC microbiome Ireland.
+In my PhD I focused on the balanced integration of global-scale microbiome datasets with biologically-grounded analytical approaches to unravel the complexity of the [microbiome-gut-brain axis]{.my_bold}. My work was supervised by Professors John F. Cryan and Gerard Clarke at the APC microbiome Ireland.
 
 In my daily life I like reading books (mostly non-fiction), hiking, drinking coffee and doing 3D design and printing.
 
