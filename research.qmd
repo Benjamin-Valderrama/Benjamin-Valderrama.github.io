@@ -18,7 +18,7 @@ A full list of all my publications can be found at [Google Scholar](https://scho
 ::: bullet-list
 -   [The South American MicroBiome Archive (saMBA): enriching the microbiome field by studying neglected populations](https://www.nature.com/articles/s41467-025-62601-4){.my_bold}, (2025), [Benjamin Valderrama]{.my_bold}, Paulina Calderon-Romero, Thomaz FS Bastiaanssen, Aonghus Lavelle, Gerard Clarke, John F Cryan, [Nature Communications]{.my_bold}.
 
--   [Global mental health benefits from expanding microbiome-gut-brain axis research to the global south](https://www.nature.com/articles/s44220-026-00690-w){.my_bold}, (2026), Benjamin Valderrama, Livia H. Morais, Aonghus Lavelle, Sian M. J. Hemmings, Lindsay J. Hall, Zul Merali, Gerard Clarke, John F. Cryan, [Nature Mental Health]{.my_bold}
+-   [Global mental health benefits from expanding microbiome-gut-brain axis research to the global south](https://www.nature.com/articles/s44220-026-00690-w){.my_bold}, (2026), [Benjamin Valderrama]{.my_bold}, Livia H. Morais, Aonghus Lavelle, Sian M. J. Hemmings, Lindsay J. Hall, Zul Merali, Gerard Clarke, John F. Cryan, [Nature Mental Health]{.my_bold}
 
 -   [Global environmental change and the gut-kidney-brain axis: a review and framework of vulnerability and resilience](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(26)00026-4/fulltext){.my_bold}, (2026), Shazia Adalat, Konstantinos Giannakou, [Benjamin Valderrama]{.my_bold}, Juan Guillermo Cardenas-Aguilera, Giorgos K Sakkas, Jonathan Overeem, Gaye Hafez, Dearbhla Kelly, Jelena Vulevic, Guohua He, Silvia M Mihaila, Alessandra Tammaro, Burcin Ikiz, John F Cryan, [The Lancet Planetary Health]{.my_bold}
 

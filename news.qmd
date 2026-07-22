@@ -31,7 +31,13 @@ css: styles.css
 -   [University College Cork Research News](https://www.ucc.ie/en/research/news/2025/ucc-researchers-develop-the-largest-archive-of-gut-microbiomes-in-south-america.html){.my_bold} featured our work and highlighted its relevance.
 :::
 
-# 2. Open Science: Transform your house into a laboratory
+# 2. Expanding microbiome-gut-brain axis research globally
+
+::: bullet-list
+- [The Microbiologists](https://www.the-microbiologist.com/news/when-it-comes-to-brain-health-is-microbiome-science-missing-much-of-the-world/9543.article){.my_bold} featured our perspective article.
+:::
+
+# 3. Open Science: Transform your house into a laboratory
 
 ::: bullet-list
 -   [A university news outlet](https://biologia.uc.cl/convierte-tu-casa-en-un-laboratorio/){.my_bold} covered the release of our science communication book. The book has instructions to perform simple scientific experiments and their explanations. It was released for free during the COVID-19 lockdown to encourage kids to learn about science. [The book is free online](https://shorturl.at/3XgCm) (Spanish only).
