@@ -29,7 +29,7 @@ const posts = [
   {
     title: "When Good Science Goes Wrong: How Batch Effects Can Obscure Biology",
     description: "Reading time: 10 mins",
-    image: "./images/blog_batch.png",
+    image: "/images/blog_batch.png",
     link: "https://bvalderrama.substack.com/p/when-good-science-goes-wrong-how"
   },
   {
