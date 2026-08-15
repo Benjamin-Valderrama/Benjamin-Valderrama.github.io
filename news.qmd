@@ -34,7 +34,7 @@ css: styles.css
 # 2. Expanding microbiome-gut-brain axis research globally
 
 ::: bullet-list
-- [The Irish Examiner](https://www.irishexaminer.com/news/arid-41896087.html) covered our work.
+- [The Irish Examiner](https://www.irishexaminer.com/news/arid-41896087.html){.my_bold} covered our work.
 - [The Microbiologists](https://www.the-microbiologist.com/news/when-it-comes-to-brain-health-is-microbiome-science-missing-much-of-the-world/9543.article){.my_bold} featured our perspective article.
 :::
 
